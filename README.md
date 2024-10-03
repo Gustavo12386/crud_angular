@@ -12,4 +12,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Autor
-- Gustavo Viana
+- Gustavo Calderaro
